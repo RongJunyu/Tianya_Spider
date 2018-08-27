@@ -1,0 +1,14 @@
+{
+  "name": "tianya_spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "crawler": "^1.2.0",
+    "promise": "^8.0.1",
+    "thunkify": "^2.1.2",
+    "utf8": "^3.0.0"
+  },
+  "author": "Junyu.Rong"
+}
